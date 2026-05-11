@@ -30,6 +30,7 @@ building • learning • experimenting
 </div>
 
 ---
+## boot_sequence()
 
 ```yaml
 user:
@@ -119,7 +120,6 @@ currently_exploring:
 |---|---|---|
 | ClipStash | Chrome extension for saving and organizing useful content | JavaScript, Chrome APIs |
 | AI Emotion Chatbot | Emotion-recognizing chatbot experiment with interactive responses | Scratch, HTML, AI/ML |
-| Portfolio | Responsive portfolio websites and frontend UI experiments | HTML, CSS, JavaScript |
 | Hostel Queue Planner *(planned)* | Queue management system for hostel washing machine usage | Full-Stack |
 
 ---
