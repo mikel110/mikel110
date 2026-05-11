@@ -7,6 +7,24 @@ AI & Data Science
 
 building • learning • experimenting
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=900&lines=Designing+systems.+Solving+problems.;Learning+deeply.+Building+consistently.;Exploring+tech%2C+ideas+and+myself.;Discipline+today%2C+impact+tomorrow.;On+a+journey+of+growth+and+infinite+potential." />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mikel110">
+    <img src="https://img.shields.io/badge/GitHub-mikel110-181717?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://linkedin.com/in/mikel-bonny">
+    <img src="https://img.shields.io/badge/LinkedIn-Mikel_Bonny-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="mailto:mikelbonny07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
 > *"Knowledge, like a seed, needs the right time to bloom."*
 
 </div>
