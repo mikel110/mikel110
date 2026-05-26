@@ -8,10 +8,6 @@ AI & Data Science
 building • learning • experimenting
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=900&lines=Designing+systems.+Solving+problems.;Learning+deeply.+Building+consistently.;Exploring+tech%2C+ideas+and+myself.;Discipline+today%2C+impact+tomorrow.;On+a+journey+of+growth+and+infinite+potential." />
-</p>
-
-<p align="center">
   <a href="https://github.com/mikel110">
     <img src="https://img.shields.io/badge/GitHub-mikel110-181717?style=for-the-badge&logo=github">
   </a>
@@ -53,43 +49,6 @@ system_traits:
   - hands-on learner
   - problem solver
   - growth oriented
-
-long_term_objectives:
-  - strong internship opportunities
-  - meaningful open source contributions
-  - improving competitive programming
-  - building impactful software
-  - becoming a better engineer every day
-```
-
----
-
-## current_interests()
-
-```python
-[
-  "Artificial Intelligence & Machine Learning",
-  "Full-Stack Development",
-  "Backend Development",
-  "Competitive Programming",
-  "Open Source Software",
-  "Problem Solving"
-]
-```
-
----
-
-## installed_languages()
-
-```cpp
-[
-  "C",
-  "C++",
-  "Java",
-  "Python",
-  "JavaScript",
-  "Bash"
-]
 ```
 
 ---
@@ -124,46 +83,15 @@ currently_exploring:
 
 ---
 
-## current_tasks()
-
-| task | progress |
-|---|---|
-| Open Source | ██░░░░░░░ |
-| Full Stack | ████░░░░░ |
-| Competitive Programming | █████░░░░ |
-| AI/ML | ███░░░░░░ |
-
----
-
 ## developer_activity()
 
 ```txt
 > active member @ Coders Club, IIIT Kottayam
-> regular problem solving on Codeforces
 > exploring open source & collaborative development
 > building projects while learning fundamentals deeply
 ```
 
 ---
-
-## off_the_keyboard()
-
-```yaml
-interests:
-  - football
-  - fitness
-  - movies
-  - music
-  - gaming
-
-games:
-  - Valorant
-  - Fortnite
-  - Minecraft
-```
-
----
-
 ## current_mission()
 
 ```cpp
@@ -174,14 +102,6 @@ while(student) {
     improve();
 }
 ```
-
-- contribute meaningfully to open source
-- improve full-stack development skills
-- participate in hackathons
-- build impactful real-world projects
-- become stronger at competitive programming
-- grow into a reliable software engineer
-
 ---
 
 ## connect()
