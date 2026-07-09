@@ -1,11 +1,7 @@
 <div align="center">
 
-# MikelOS v1.0
-
 ### CS Freshman @ IIIT Kottayam  
 AI & Data Science
-
-building • learning • experimenting
 
 <p align="center">
   <a href="https://github.com/mikel110">
@@ -34,21 +30,6 @@ user:
   role: CS Freshman @ IIIT Kottayam
   specialization: AI & Data Science
 
-status:
-  currently_building: full-stack projects
-  currently_learning:
-    - open source
-    - backend systems
-    - competitive programming
-    - AI/ML fundamentals
-    - trading & financial markets
-
-system_traits:
-  - curious
-  - consistent
-  - hands-on learner
-  - problem solver
-  - growth oriented
 ```
 
 ---
@@ -70,19 +51,6 @@ currently_exploring:
   - Open Source Collaboration
   - AI/ML
 ```
-
----
-
-## active_projects()
-
-| project | description | stack |
-|---|---|---|
-| ClipStash | Chrome extension for saving and organizing useful content | JavaScript, Chrome APIs |
-| AI Emotion Chatbot | Emotion-recognizing chatbot experiment with interactive responses | Scratch, HTML, AI/ML |
-| Hostel Queue Planner *(planned)* | Queue management system for hostel washing machine usage | Full-Stack |
-
----
-
 ## developer_activity()
 
 ```txt
