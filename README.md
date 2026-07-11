@@ -72,11 +72,4 @@ while(student) {
 ```
 ---
 
-<div align="center">
 
-```python
-if(opportunity && learning):
-    take_it()
-```
-
-</div>
