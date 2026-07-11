@@ -72,16 +72,6 @@ while(student) {
 ```
 ---
 
-## connect()
-
-```txt
-github   : github.com/mikel110
-linkedin : linkedin.com/in/mikel-bonny
-email    : mikelbonny07@gmail.com
-```
-
----
-
 <div align="center">
 
 ```python
