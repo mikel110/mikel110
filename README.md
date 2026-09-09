@@ -1,6 +1,6 @@
 <div align="center">
 
-### CS Freshman @ IIIT Kottayam  
+### CS Sophomore @ IIIT Kottayam  
 AI & Data Science
 
 <p align="center">
